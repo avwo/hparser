@@ -1,0 +1,31 @@
+{
+  "name": "hparser",
+  "description": "HTTP parser for whistle",
+  "version": "0.1.0",
+  "author": "avenwu <avenwu@vip.qq.com>",
+  "contributors": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/avwo/hparser/issues"
+  },
+  "homepage": "https://github.com/avwo/hparser",
+  "keywords": [
+    "whistle",
+    "http-parser"
+  ],
+  "registry": "http://registry.npmjs.org/hparser",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/avwo/hparser.git"
+  },
+  "scripts": {
+    "lint": "eslint ./lib *.js",
+    "lintfix": "eslint --fix ./lib *.js"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "devDependencies": {
+    "eslint": "^2.8.0"
+  }
+}
