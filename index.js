@@ -1,4 +1,4 @@
-var util = require('./util');
+var util = require('./lib/util');
 
 exports.getRawHeaderNames = util.getRawHeaderNames;
 exports.formatHeaders = util.formatHeaders;
