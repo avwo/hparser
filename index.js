@@ -1,5 +1,5 @@
 var util = require('./lib/util');
-var parse = require('./lib/parse');;
+var parse = require('./lib/parse');
 
 exports.getRawHeaderNames = util.getRawHeaderNames;
 exports.formatHeaders = util.formatHeaders;
