@@ -1,7 +1,7 @@
 {
   "name": "hparser",
   "description": "HTTP parser for whistle",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "author": "avenwu <avenwu@vip.qq.com>",
   "contributors": [],
   "license": "MIT",
